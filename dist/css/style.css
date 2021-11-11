@@ -1,0 +1,31 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.bg-color{
+    background-color: #187875;
+}
+.textPrimary{
+    color: #187875;
+}
+.bgSecondary{
+    background-color: #8bc94d;
+}
+.textSecondary{
+    color: #8bc94d;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+}
+.document .form-group:first-child{
+    margin-left: 8%;
+}
+.roundimg{
+    width: 15%;
+    height: 10%;
+    border-radius: 50%;
+}
+.cardhover:hover{
+    transform: scale(.96);
+    transition: all 1s ease;
+}
